@@ -1,0 +1,13 @@
+WMapSize 4.0
+LMapSize 8.0
+PrepSens 0.01
+PrepMap Level2PrepMap.bmp
+HeightMapAmplitude 0.3
+Heightmap Level2Heightmap.bmp
+HeightmapSens 0.01
+PlayerPos 3.677298 0.163259 -1.506399 0.038000 2.002403
+PosForNextLevel -3.355972 -1.462921
+NextLevelName Level3
+ObjMap Level2.obj
+ScnFile Level2.scn
+FileMishen MishenCoord.txt
